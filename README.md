@@ -8,3 +8,8 @@
 - Visualizes confidence scores in a bar chart for multiple questions.
 - Editable context passage for dynamic querying.
 
+## Deployment
+
+Deploy easily to Streamlit Cloud or any server that supports Python.
+
+Ensure requirements.txt is present for dependency installation.
