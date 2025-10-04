@@ -1,4 +1,4 @@
-transformers==4.57.0
-torch==2.1.0  # or remove if not strictly needed
-streamlit==1.50.0
-rich>=14.1.0
+streamlit
+transformers
+torch
+matplotlib
